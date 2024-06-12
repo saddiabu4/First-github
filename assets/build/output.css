@@ -199,5 +199,247 @@ main .content6 .logos .logo p {
   color: #BDBDBD;
   margin-top: 10px;
 }
+main .content6 .strelka {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+main .bgcolor {
+  background-color: #FFFAF8;
+  width: 100%;
+  height: 100vh;
+}
+main .bgcolor .content7 {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 100px 0;
+}
+main .bgcolor .content7 .text {
+  width: 50%;
+}
+main .bgcolor .content7 .card {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+main .bgcolor .content7 .card .box {
+  background: #fff;
+  padding: 50px 80px;
+}
+main .bgcolor .content7 .card .box h1 {
+  margin: 10px 0;
+}
+main .bgcolor .content7 .card .box p {
+  margin: 10px 0;
+}
+main .bgcolor .content7 .card .box p img {
+  width: 15px;
+  margin-right: 5px;
+}
+main .bgcolor .content7 .card .box span {
+  font-size: 0.9em;
+  color: #BDBDBD;
+}
+main .bgcolor .content7 .card .box button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: 1px solid #FF7235;
+  background-color: #fff;
+  color: #FF7235;
+  cursor: pointer;
+}
+main .bgcolor .content7 .card .box button img {
+  width: 13px;
+  margin-left: 5px;
+}
+main .bgcolor .content7 .card .box #get-this {
+  padding: 10px 20px;
+  border: 1px solid #FF7235;
+  background-color: #FF7235;
+  color: #fff;
+  cursor: pointer;
+}
+main .bgcolor .content7 .card .box #get-this img {
+  width: 13px;
+  margin-left: 5px;
+}
+main .content8 {
+  margin-top: 150px;
+}
+main .content8 .text {
+  width: 80%;
+  margin: 0 auto;
+}
+main .content8 .cards {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+main .content8 .cards .card {
+  margin: 0 10px;
+  padding-top: 10px;
+  transition: -80px;
+}
+main .content8 .cards .card .rang {
+  background: #FF7235;
+  width: 100%;
+  height: 10px;
+}
+main .content8 .cards .card h3 {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+main .content8 .cards .card1 {
+  margin: 0 10px;
+  padding-top: 10px;
+}
+main .content8 .cards .card1 .rang1 {
+  background: #FFBE21;
+  width: 100%;
+  height: 10px;
+}
+main .content8 .cards .card1 h3 {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+main .content8 .cards .card2 {
+  margin: 0 10px;
+  padding-top: 10px;
+}
+main .content8 .cards .card2 .rang2 {
+  background: #4756DF;
+  width: 100%;
+  height: 10px;
+}
+main .content8 .cards .card2 h3 {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+main .content8 .cards .card3 {
+  margin: 0 10px;
+  padding-top: 10px;
+}
+main .content8 .cards .card3 .rang3 {
+  background: #3EC1F3;
+  width: 100%;
+  height: 10px;
+}
+main .content8 .cards .card3 h3 {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+main .content8 .cards .card4 {
+  margin: 0 10px;
+  padding-top: 10px;
+}
+main .content8 .cards .card4 .rang4 {
+  background: #BB7259;
+  width: 100%;
+  height: 10px;
+}
+main .content8 .cards .card4 h3 {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+main .content8 .slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+main .content9 {
+  width: 100%;
+  height: 110vh;
+  margin-top: 150px;
+  background: #FF7235;
+}
+main .content9 .text {
+  width: 80%;
+  margin: 0 auto;
+  color: #fff;
+  padding-top: 100px;
+}
+main .content9 .text h1 {
+  width: 50%;
+}
+main .content9 .text button {
+  margin-top: 50px;
+  padding: 10px 20px;
+  border: 1px solid #fff;
+  background-color: #fff;
+  color: #FF7235;
+  cursor: pointer;
+}
+
+footer .container {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+footer .container .icon {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  gap: 10px;
+}
+footer .container .box a {
+  text-decoration: none;
+  color: #000;
+}
+footer .container .box h3 {
+  margin: 20px 0;
+}
+footer .container .box p {
+  padding: 5px 0;
+}
+footer .container .box2 p {
+  color: #BDBDBD;
+  margin: 20px 0;
+}
+footer .container .box2 .subscribe {
+  width: 100%;
+  border: 1px solid #FF7235;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  gap: 5px;
+}
+footer .container .box2 .subscribe button {
+  padding: 10px 20px;
+  border: 1px solid #FF7235;
+  background-color: #FF7235;
+  color: #fff;
+  cursor: pointer;
+}
+footer .finish {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto;
+  margin: 100px auto;
+}
+footer .finish .contact {
+  display: flex;
+  gap: 20px;
+}
 
 /*# sourceMappingURL=output.css.map */
